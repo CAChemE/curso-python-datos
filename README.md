@@ -31,7 +31,7 @@ Introducción a la programación y ecosistema de Python científico.
 
 
 * Trabajo con ficheros y automatización de tareas (4h)
-  * Trabajo con archivos (lectura y escritura, organización)
+  * Trabajo con archivos (lectura y escritura, organización) - https://v4.software-carpentry.org/sysprog/index.html
   * Scripting de sistema con Python (compatible con windows, mac y linux)
   * Peticiones web y bases de datos
     * Ejemplo para automizar la descarga de datos desde páginas tipo:
