@@ -2,9 +2,9 @@
 
 Curso de introducción para aprender a automatizar el procesamiento de datos y la realización de tareas repetitivas.
 
-Requisitos: Idealmente, algo de experiencia en cualquier otro lenguaje de programación (MATLAB/GNU Octave, C/C++, Java) es bienvenida. 
-Licencia: Texto: CC-BY
-          Código: MIT
+*Requisitos*: Idealmente, algo de experiencia en cualquier otro lenguaje de programación (MATLAB/GNU Octave, C/C++, Java) es bienvenida. 
+
+*Licencia*: Texto: CC-BY | Código: MIT
 
 
 ## Primera parte: Introducción a Python (8 h)
