@@ -7,7 +7,7 @@
 *Licencia*: Texto: CC-BY | Código: MIT
 
 ## Descargas:
-* [Instalar Anaconda (Python)](http://nbviewer.jupyter.org/github/CAChemE/curso-python-datos/blob/master/notebooks/000-Bienvenido.ipynb)
+* [Instalar Anaconda (Python)](http://nbviewer.jupyter.org/github/CAChemE/curso-python-datos/blob/master/notebooks/000-Instalando_Python.ipynb)
 * [Descargar materiales](https://github.com/CAChemE/curso-python-datos/archive/master.zip)
 
 
