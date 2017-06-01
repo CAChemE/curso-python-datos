@@ -7,7 +7,7 @@
 *Licencia*: Texto: CC-BY | Código: MIT
 
 ## Descargas:
-* [Instalar Anaconda (Python)](http://nbviewer.jupyter.org/github/CAChemE/curso-python-datos/blob/master/notebooks/000-Instalando_Python.ipynb)
+* [Instalar Anaconda (Python)](https://github.com/CAChemE/curso-python-datos/blob/master/notebooks/000-Instalando_Python.ipynb)
 * [Descargar materiales](https://github.com/CAChemE/curso-python-datos/archive/master.zip)
 
 
@@ -17,7 +17,7 @@ Introducción a la programación y ecosistema de Python científico.
 * Instalación y primeros pasos con Python (1h)
   * Instalación de Python científico (Anaconda, Jupyter Notebook)
   * Ventajas e inconvenientes frente a otros lenguajes
-  * Algunos ejemplos de motivación automatizando tareas para mostrar la versatilidad de Python (además de cálculo) - https://automatetheboringstuff.com/ 
+  * Algunos ejemplos de motivación automatizando tareas para mostrar la versatilidad de Python (además de cálculo)
 
 * Análisis de datos con Python (7 h), adaptación de SWC (http://swcarpentry.github.io/python-novice-inflammation/index.html):
   * Análisis de datos con Python, NumPy y Matplotlib
@@ -48,9 +48,11 @@ Introducción a la programación y ecosistema de Python científico.
 
 ## Sigue aprendiendo
 * [ES] Curso de Python para científicos e ingenieros
+
 <a href="http://cacheme.org/curso-online-python-cientifico-ingenieros/" target="_blank"><img src="https://github.com/CAChemE/curso-python-datos/raw/master/images/curso-online-python.png" 
 alt="IMAGE ALT TEXT HERE" width="340" height="180" border="10" /></a>
-* [ES] [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/)
+
+* [ES] [Recursos para aprender Python](http://www.python.org.ar/aprendiendo-python/)
 * [EN] **[Software-Carpentry](https://software-carpentry.org/lessons/): Talleres de Python, Linux, SQL, GitHub (EN)**
 * [EN] [A gallery of interesting Jupyter and IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
 * [EN] [Python tutor](http://pythontutor.com/)
