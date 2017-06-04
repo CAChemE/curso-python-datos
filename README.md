@@ -10,7 +10,7 @@
 * [Instalar Anaconda (Python)](https://github.com/CAChemE/curso-python-datos/blob/master/notebooks/000-Instalando_Python.ipynb)
 * [Descargar materiales](https://github.com/CAChemE/curso-python-datos/archive/master.zip)
 
-## Dale un vistazo al material online (sin instalación) > [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cacheme/curso-python-datos/)
+#### Dale un vistazo al material online (sin instalación) > [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/cacheme/curso-python-datos/)
 
 ## Primera parte: Introducción a Python (8 h)
 Introducción a la programación y ecosistema de Python científico.
