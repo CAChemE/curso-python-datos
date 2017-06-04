@@ -8,7 +8,7 @@ def empty_notebook(fname):
     for cell in nb.cells:
         if cell['cell_type'] == 'code':
             source = cell['source']
-            if '# preserve' in source:
+            if ('# preserve' in source) or ('#preserve' in source):
                 continue
             else:
                 # Don't preserve cell
