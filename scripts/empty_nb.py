@@ -26,7 +26,7 @@ if __name__ == '__main__':
     if not os.path.exists("notebooks_vacios"):
         os.mkdir("notebooks_vacios")
 
-    for fname in glob.glob("notebooks_completos/*.ipynb"):
+    for fname in glob.glob("notebooks/*.ipynb"):
         new_fname = os.path.join("notebooks_vacios", os.path.basename(fname))
         with open(new_fname, 'w') as fp:
             nbformat.write(empty_notebook(fname), fp)
